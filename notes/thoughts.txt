@@ -1,0 +1,1 @@
+Random thoughts. I had this annoying issue where when I pressed 'tab' it autofilled to 'git-Test' which wasn't even a directory nor file in my directory, which was annoying. chatbot said it will take over an hour to correct, so i let it go, fighting against my perfectionism lol. :)
